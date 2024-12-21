@@ -1,2 +1,2 @@
 # WIKI-bot
-Этот бот ищет информацию по слову(словосочетанию) из общедоступной интернет-энциклопедии Wikipedia
+This bot searches for information on a word (phrase) from the publicly available online encyclopedia Wikipedia
